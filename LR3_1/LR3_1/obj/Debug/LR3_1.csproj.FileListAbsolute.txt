@@ -1,0 +1,7 @@
+D:\OOP\LR3_1\LR3_1\obj\Debug\LR3_1.csprojResolveAssemblyReference.cache
+D:\OOP\LR3_1\LR3_1\obj\Debug\LR3_1.csproj.CoreCompileInputs.cache
+D:\OOP\LR3_1\LR3_1\bin\Debug\LR3_1.exe.config
+D:\OOP\LR3_1\LR3_1\bin\Debug\LR3_1.exe
+D:\OOP\LR3_1\LR3_1\bin\Debug\LR3_1.pdb
+D:\OOP\LR3_1\LR3_1\obj\Debug\LR3_1.exe
+D:\OOP\LR3_1\LR3_1\obj\Debug\LR3_1.pdb
